@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HW7_SongRequestList</string>
+    <string name="list">List</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="backArrow"><![CDATA[<--]]></string>
+    <string name="clear">Clear</string>
+    <string name="enter">Enter</string>
+    <string name="nowplaying">現正撥放:</string>
+    <string name="songrequest">點歌:</string>
+    <string name="coverorlyric">CoverOrLyric</string>
+    <string name="cover">Cover</string>
+    <string name="home">Home</string>
+    <string name="next">Next</string>
+    <string name="lyric">Lyric</string>
+    <string name="prev">Prev</string>
+    <string name="pleasesongrequest">請利用下方數字鍵盤點歌:</string>
+    <string name="password">密碼</string>
+    <string name="username">帳號</string>
+    <string name="register">沒有帳號?註冊</string>
+    <string name="login">登入</string>
+    <string name="login2">登入</string>
+</resources>
